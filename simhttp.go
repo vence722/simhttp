@@ -1,4 +1,4 @@
-package main
+package simhttp
 
 import(
 	"github.com/vence722/simhttp/http"
