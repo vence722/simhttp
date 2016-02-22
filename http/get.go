@@ -2,7 +2,7 @@ package http
 
 import(
 	"net/http"
-	"entity"
+	"github.com/vence722/simhttp/entity"
 )
 
 func SimpleGet(url string)  *entity.HttpResult{

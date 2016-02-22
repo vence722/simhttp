@@ -3,7 +3,7 @@ package http
 import(
 	"net/http"
 	"net/url"
-	"entity"
+	"github.com/vence722/simhttp/entity"
 )
 
 func SimplePost(url string, params url.Values) *entity.HttpResult{
